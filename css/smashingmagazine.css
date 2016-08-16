@@ -1,0 +1,286 @@
+#navbar_books_tickets  {
+    background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png);
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    margin-top: 0;
+    float:left;
+
+}
+
+#navbar_books_tickets li {
+    float: left;
+}
+
+ #navbar_books_tickets li a {
+    display: block;
+    color:  rgba(0,0,0,.3);
+    text-align: center;
+   /* padding:40px  16px 8px 16px;*/
+    text-decoration: none;
+    padding: 2.5em 1em .5em;
+    border-right: .08em solid rgba(0,0,0,.05);
+    border-right-width: 0.08em;
+    border-right-style: solid;
+    border-right-color: rgba(0, 0, 0, 0.05);
+    height: 1.75em;
+}
+
+#navbar_books_tickets li a:hover {
+   background-color: #ffff66;
+   color: rgba(0,0,0,.6);
+
+}
+
+#eBooks_image a {
+    background-image: url(https://www.smashingmagazine.com/wp-content/themes/smashing-magazine/assets/images/cody.svg);
+    background-repeat: no-repeat;
+    background-position: right .25em;
+    background-size: 2.25em auto;
+}
+
+
+
+
+#smashing_magazine_logo_outer{
+
+  width:153.016px;
+  height:53px;
+  float: left;
+  /*position:relative;*/
+  padding: 24px 16px 0px 16px ;
+  background-color: white;
+}
+
+#smashing_magazine_image{
+
+  width:153.016px;
+  height:40.016px;
+ /* position:absolute;*/
+  
+  /*margin-left: auto;
+  margin-right: auto;*/
+}
+
+
+#top_navbar{
+
+  float:left;
+}
+
+
+
+#social_networking_plugins_images{
+background-image: url( https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/channels.svg)
+background-size: 132px 23px;
+transform: rotate(90deg);
+}
+.social_networking_plugins{
+
+float:left;
+  width:12%;
+}
+
+
+
+.outer_imagelogo_navbar{
+  background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png);
+
+  width:638px;
+  height:77px;
+
+}
+
+.plugins_social_networking{
+
+    position:absolute;
+    background-image: url(https://media-mediatemple.netdna-ssl.com/wp-content/themes/smashing-magazine/assets/images/smbg.png);
+    top:8px;
+    left:638px;
+  width:638px;
+  height:77px;
+
+}
+
+.plugins_social_networking_icons{
+  margin-bottom: 8px;
+  width:132px;
+  height:23px;
+}
+.plugins_social_networking_icons img{
+  width:23px;
+  height:23px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.row2{
+
+position:left;
+margin-top: 20px;
+padding: 8px 0px 8px 0px ;
+
+
+}
+
+.verticalnavbar{
+
+  border-left: 10px;
+  padding: 0px 0px 0px 0px;
+  margin:0px;
+  border-left-style: solid;
+  list-style-type: none;
+  width:167.188px;
+  height:156px ;
+
+}
+
+.verticalnavbar li{
+
+/*width:167.188px;*/
+font-size: 16px;
+color: rgb(119, 119, 119);
+padding: 0px 0px 0px 36px;
+
+}
+
+
+.verticalnavbar  li a {
+
+padding : 4px 8px 4px 23.797px;
+width:117.391px;
+height: 23px;
+display: block;
+text-decoration: none;
+color: rgb(119, 119, 119);
+
+}
+
+.verticalnavbar li:hover  {
+
+
+
+background-color:  #ffff66;
+color: white;
+
+}
+
+
+
+
+
+
+.bar1{
+border-left-color: #C9E9E5;
+
+}
+
+.verticalnavbar.bar1:hover{
+  border-left-color: #63BFB2;;
+}
+
+
+
+.bar2{
+border-left-color:  rgb(205, 238, 170);  
+        /*  rgb(110, 206, 10);*/
+}
+.verticalnavbar.bar2:hover{
+  border-left-color: rgb(110, 206, 10);
+}
+
+
+
+.bar3{
+
+border-left-color:rgb(249, 240, 168);
+/*rgb(235, 210, 3) */ 
+}
+.verticalnavbar.bar3:hover{
+  border-left-color:rgb(235, 210, 3);  
+}
+
+
+
+
+.bar4{
+
+border-left-color:rgb(224, 207, 223);
+/*rgb(166, 117, 162)*/
+}
+.verticalnavbar.bar4:hover{
+  border-left-color:rgb(166, 117, 162);
+
+}
+
+
+
+.bar5{
+border-left-color:rgb(250, 206, 210);
+/*rgb(240, 113, 124)*/
+}
+
+.verticalnavbar.bar5:hover{
+  border-left-color:rgb(240, 113, 124);
+
+}
+
+
+.bar6{
+
+  border-left-color:rgb(188, 216, 240);
+/*  rgb(62, 141, 210)*/
+}
+.verticalnavbar.bar6:hover{
+  border-left-color:rgb(62, 141, 210);
+
+}
+
+
+
+.search_bar{
+position:absolute;
+right: 20px;
+top:100px;
+
+
+}
+
+ .search_bar input{
+  float:left;
+  width: 306.594px;
+  height:27px;
+  padding: 6.750px 0px 6.750px 8.391px;
+  border-left-color: rgba(0, 0, 0, 0.1);
+  border-style: solid;
+  color: #777;
+  border: .08em solid rgba(0,0,0,.1);
+  background-color: #fff;
+border-radius: .5em 0 0 .5em;
+  }
+
+ .search_bar button{
+  width:87.219px;
+  height:40.750px;
+  padding:0px 4.188px 0px 4.188px;
+  border:1px 1px 1px 0px;
+  background-color: #e95c33;
+  float:left;
+  color:white;
+  border-radius: 0 .5em .5em 0;
+  outline: 0;
+  border-color: #940700;
+}
+
